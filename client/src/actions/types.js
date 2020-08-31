@@ -1,0 +1,15 @@
+// Loading and alerts
+export const SET_ALERT = 'SET_ALERT'
+export const REMOVE_ALERT = 'REMOVE_ALERT'
+export const SET_LOADING = 'SET_LOADING'
+// Orders
+export const GET_ORDERS = 'GET_ORDERS'
+export const FILTER_ORDERS = 'FILTER_ORDERS'
+export const CLEAR_FILTER = 'CLEAR_FILTER'
+export const ORDERS_FAIL = 'ORDERS_FAIL'
+export const GET_ORDER = 'GET_ORDER'
+export const ORDER_FAIL = 'ORDER_FAIL'
+export const CLEAR_ORDER = 'CLEAR_ORDER'
+export const ADD_ORDER = 'ADD_ORDER'
+export const UPDATE_ORDER = 'UPDATE_ORDER'
+export const DELETE_ORDER = 'DELETE_ORDER'

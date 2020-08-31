@@ -1,0 +1,8 @@
+.orders {
+	margin-top: 25px;
+	&__header {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+	}
+}
